@@ -1,0 +1,29 @@
+.comic-card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-radius: 15px;
+  overflow: hidden;
+  background: linear-gradient(145deg, #fff6e6, #ffe9b3);
+  border: 2px dashed #f9c74f;
+}
+
+.comic-card:hover {
+  transform: translateY(-10px) scale(1.02);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+}
+
+.comic-image {
+  height: 250px;
+  object-fit: cover;
+  border-bottom: 2px solid #f9c74f;
+}
+
+.comic-description {
+  font-style: italic;
+  color: #4b4b4b;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.comic-card:hover .comic-description {
+  opacity: 1;
+}

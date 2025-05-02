@@ -1,0 +1,32 @@
+/* Navbar.css */
+
+.custom-navbar {
+    backdrop-filter: blur(12px);
+    background-color: rgba(0, 0, 0, 0.5) !important;
+    padding: 0.8rem 1rem;
+    transition: all 0.4s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  }
+  
+  .brand-logo {
+    font-size: 1.6rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+  }
+  
+  .navbar-nav .nav-link {
+    color: #fff !important;
+    margin-left: 1rem;
+    font-size: 1rem;
+    position: relative;
+    transition: color 0.3s ease;
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #ffc107 !important;
+  }
+  
+  .navbar-nav .nav-link i {
+    color: #ffc107;
+  }
+  

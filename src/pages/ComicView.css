@@ -1,0 +1,23 @@
+.comic-image {
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease;
+  }
+  
+  .comic-image:hover {
+    transform: scale(1.05);
+  }
+  
+  button {
+    margin-top: 20px;
+    padding: 12px 25px;
+    font-size: 18px;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background-color: #f9c74f;
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+  }
+  
