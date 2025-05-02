@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/balaji833/comic.git/static/css/main.46b88aff.css",
+    "main.js": "/balaji833/comic.git/static/js/main.daea478d.js",
+    "static/media/banana.jpg": "/balaji833/comic.git/static/media/banana.2763d982ee19033f267b.jpg",
+    "static/media/fa-solid-900.ttf": "/balaji833/comic.git/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/galaxy.jpg": "/balaji833/comic.git/static/media/galaxy.f95b8c5775147729348e.jpg",
+    "static/media/sla.jpg": "/balaji833/comic.git/static/media/sla.4598c2f2b050938207c9.jpg",
+    "static/media/fa-brands-400.ttf": "/balaji833/comic.git/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/time.png": "/balaji833/comic.git/static/media/time.16599d7c234cf704f66d.png",
+    "static/media/zombie.webp": "/balaji833/comic.git/static/media/zombie.09a5eed18f41b6246721.webp",
+    "static/media/fa-solid-900.woff2": "/balaji833/comic.git/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/comic.jpg": "/balaji833/comic.git/static/media/comic.db066eb745aace5f2c1e.jpg",
+    "static/media/punch.jpg": "/balaji833/comic.git/static/media/punch.c8eed8c2e559f79f71cd.jpg",
+    "static/media/fa-brands-400.woff2": "/balaji833/comic.git/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/cyber1.jpg": "/balaji833/comic.git/static/media/cyber1.2dcd6792a19041ae978d.jpg",
+    "static/media/lost.jpg": "/balaji833/comic.git/static/media/lost.d3fc52631493c1878db6.jpg",
+    "static/media/the brave hero.jpg": "/balaji833/comic.git/static/media/the brave hero.22c832d83ad972e17e55.jpg",
+    "static/media/de.jpg": "/balaji833/comic.git/static/media/de.d4a8f336677f71c10ace.jpg",
+    "static/media/fa-regular-400.ttf": "/balaji833/comic.git/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/max.jpg": "/balaji833/comic.git/static/media/max.b71daa63be8eef8ec304.jpg",
+    "static/media/comic1.jpg": "/balaji833/comic.git/static/media/comic1.b2c018305df63df99a08.jpg",
+    "static/media/dc.jpg": "/balaji833/comic.git/static/media/dc.dff18ab07766e996b400.jpg",
+    "static/media/sha.jpg": "/balaji833/comic.git/static/media/sha.caf1934f30a3fd8a6b0c.jpg",
+    "static/media/fa-regular-400.woff2": "/balaji833/comic.git/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/house.jpg": "/balaji833/comic.git/static/media/house.a6978c27eddc818d4d1f.jpg",
+    "static/media/fa-v4compatibility.ttf": "/balaji833/comic.git/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/fa-v4compatibility.woff2": "/balaji833/comic.git/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "index.html": "/balaji833/comic.git/index.html",
+    "main.46b88aff.css.map": "/balaji833/comic.git/static/css/main.46b88aff.css.map",
+    "main.daea478d.js.map": "/balaji833/comic.git/static/js/main.daea478d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46b88aff.css",
+    "static/js/main.daea478d.js"
+  ]
+}
